@@ -1,4 +1,7 @@
 
+Adopted from: https://www.makeuseof.com/automatically-move-files-from-one-folder-to-another-windows-mac/
+
+
 ```bat
 @echo off
 set X=Days
